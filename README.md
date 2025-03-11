@@ -1,2 +1,2 @@
 # ControleResidencial
-Código sobre controle residencial sem MVC
+Código sobre controle de gastos residencial sem MVC
