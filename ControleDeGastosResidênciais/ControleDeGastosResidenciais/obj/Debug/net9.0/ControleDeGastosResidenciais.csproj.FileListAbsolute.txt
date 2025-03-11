@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\bin\Debug\net9.0\ControleDeGastosResidenciais.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\bin\Debug\net9.0\ControleDeGastosResidenciais.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\bin\Debug\net9.0\ControleDeGastosResidenciais.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\bin\Debug\net9.0\ControleDeGastosResidenciais.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\bin\Debug\net9.0\ControleDeGastosResidenciais.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\refint\ControleDeGastosResidenciais.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ControleDeGastosResidenciais.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetoTeste\ControleDeGastosResidênciais\ControleDeGastosResidenciais\obj\Debug\net9.0\ref\ControleDeGastosResidenciais.dll
